@@ -1,0 +1,11 @@
+n, b = input().split()
+b = int(b)
+result = 0
+
+for i in range(len(n)):
+    if ord(n[i]) >= 65:
+        result += (ord(n[i]) - 55) * (b**(len(n) - i - 1))
+    else:
+        result += int(n[i]) * (b**(len(n) - i - 1))
+
+print(result)
