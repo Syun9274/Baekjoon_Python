@@ -20,4 +20,3 @@ for idx in range(n):
         if countNum.most_common(1)[0][1] >= n // 2:
             print(countNum.most_common(1)[0][0])
         else: print("SYJKGW")
-        
