@@ -1,3 +1,5 @@
+# 소트인사이드
+
 num = list(str(input().split()))
 
 num = num[2 : -2]

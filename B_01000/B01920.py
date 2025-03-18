@@ -1,4 +1,7 @@
+# 수 찾기
+
 import sys
+
 input = sys.stdin.readline
 
 n = input()

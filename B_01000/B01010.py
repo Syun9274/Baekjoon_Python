@@ -1,3 +1,5 @@
+# 다리 놓기
+
 def factorial(n):
     if n <= 1:
         return 1

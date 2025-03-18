@@ -1,3 +1,5 @@
+# 분수 찾기
+
 X = int(input())
 
 diagonal = 1

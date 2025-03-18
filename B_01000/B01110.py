@@ -1,3 +1,5 @@
+# 더하기 사이클
+
 n = str(input())
 start = n
 cycle = 0

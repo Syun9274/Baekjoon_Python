@@ -1,3 +1,5 @@
+# 스택 수열
+
 import sys
 input = sys.stdin.readline
 

@@ -1,3 +1,5 @@
+# 요세푸스 문제
+
 def baekjoon_1158(n, k):
     people = list(range(1, n + 1))
     result = []

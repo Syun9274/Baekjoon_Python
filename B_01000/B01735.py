@@ -1,3 +1,5 @@
+# 분수 합
+
 import math
 
 numeratorA, denominatorA = map(int, input().split())

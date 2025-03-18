@@ -1,3 +1,5 @@
+# 영화감독 숌
+
 N = int(input())
 
 count = 0
@@ -11,4 +13,4 @@ while True:
         print(number)
         break
     
-    number += 1 
+    number += 1

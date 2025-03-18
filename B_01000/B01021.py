@@ -1,3 +1,5 @@
+# 회전하는 큐
+
 from collections import deque
 
 n, m = list(map(int, input().split()))

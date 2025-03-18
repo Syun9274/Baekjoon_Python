@@ -1,3 +1,5 @@
+# 체스판 다시 칠하기
+
 import sys
 
 input = sys.stdin.readline

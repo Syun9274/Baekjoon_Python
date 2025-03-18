@@ -1,3 +1,5 @@
+# 국회의원 선거
+
 n = int(input())
 vote = []
 

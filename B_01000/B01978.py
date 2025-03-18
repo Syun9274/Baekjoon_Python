@@ -1,3 +1,5 @@
+# 소수 찾기
+
 K = int(input())
 N = list(map(int, input().split()))
 

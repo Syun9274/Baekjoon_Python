@@ -1,3 +1,5 @@
+# 가운데를 말해요
+
 import sys
 import heapq
 

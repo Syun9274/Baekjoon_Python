@@ -1,3 +1,5 @@
+# 단어 공부
+
 W = input().upper()
 DIR = {}
 

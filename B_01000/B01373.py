@@ -1,3 +1,5 @@
+# 2진수 8진수
+
 binary = input()
 
 demical = int(binary, 2)

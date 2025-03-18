@@ -1,3 +1,5 @@
+# 소수 구하기
+
 import sys
 
 def isPrime(n):

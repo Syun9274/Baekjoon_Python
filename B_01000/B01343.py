@@ -1,3 +1,5 @@
+# 폴리오미노
+
 board = list(input().split('.'))
 
 for idx in range(len(board)):

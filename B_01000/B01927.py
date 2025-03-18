@@ -1,3 +1,5 @@
+# 최소 힙
+
 import sys
 import heapq
 input = sys.stdin.readline

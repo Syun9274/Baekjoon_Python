@@ -1,3 +1,5 @@
+# 프린터 큐
+
 T = int(input())
 
 for _ in range(T):

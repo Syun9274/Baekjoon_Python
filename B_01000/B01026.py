@@ -1,4 +1,7 @@
+# 보물
+
 import sys
+
 input = sys.stdin.readline
 
 N = input()
@@ -13,4 +16,4 @@ ans = 0
 for idx in range(len(arrA)):
     ans += arrA[idx] * arrB[idx]
 
-print(ans) 
+print(ans)

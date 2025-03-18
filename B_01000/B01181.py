@@ -1,3 +1,5 @@
+# 단어 정렬
+
 import sys
 
 N = int(input())

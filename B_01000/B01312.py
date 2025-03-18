@@ -1,3 +1,5 @@
+# 소수
+
 A, B, N = map(int, input().split())
 
 for i in range(N):

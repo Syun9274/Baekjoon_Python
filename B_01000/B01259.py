@@ -1,3 +1,5 @@
+# 팰린드롬수
+
 while True:
     n = str(input())
     

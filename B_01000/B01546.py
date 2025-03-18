@@ -1,3 +1,5 @@
+# 평균
+
 N = int(input())
 S = list(map(int, input().split()))
 M = max(S)

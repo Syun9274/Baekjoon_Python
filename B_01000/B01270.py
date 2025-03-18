@@ -1,5 +1,8 @@
+# 전쟁 - 땅따먹기
+
 from collections import Counter
 import sys
+
 input = sys.stdin.readline
 
 n = int(input())

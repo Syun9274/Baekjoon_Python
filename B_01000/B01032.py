@@ -1,4 +1,7 @@
+# 명령 프롬프트
+
 import sys
+
 input = sys.stdin.readline
 
 N = int(input())

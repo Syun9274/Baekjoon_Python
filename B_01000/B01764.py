@@ -1,4 +1,7 @@
+# 듣보잡
+
 import sys
+
 input = sys.stdin.readline
 
 N, M = map(int, input().split())
@@ -15,5 +18,6 @@ for _ in range(M):
 both = sorted(list(not_heard & not_seen))
 
 print(len(both))
+
 for person in both:
     print(person)

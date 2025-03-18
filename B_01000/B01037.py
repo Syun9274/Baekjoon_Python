@@ -1,4 +1,7 @@
+# 약수
+
 import sys
+
 input = sys.stdin.readline
 
 C = int(input())
